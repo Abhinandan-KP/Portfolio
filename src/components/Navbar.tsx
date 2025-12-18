@@ -40,7 +40,7 @@ const Navbar = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/abhinandan"
+              href="https://www.linkedin.com/in/abhinandanx/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 glass-card hover:bg-neon-cyan/10 transition-colors"
@@ -82,7 +82,7 @@ const Navbar = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/abhinandan"
+                href="https://www.linkedin.com/in/abhinandanx/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 glass-card"

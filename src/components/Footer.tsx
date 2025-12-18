@@ -25,7 +25,7 @@ const Footer = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/abhinandan"
+              href="https://www.linkedin.com/in/abhinandanx/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 glass-card hover:bg-neon-cyan/10 transition-all hover:-translate-y-1"
@@ -34,7 +34,7 @@ const Footer = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:abhinandan@example.com"
+              href="mailto:abhinandanx538@gmail.com"
               className="p-3 glass-card hover:bg-neon-cyan/10 transition-all hover:-translate-y-1"
               aria-label="Email"
             >
