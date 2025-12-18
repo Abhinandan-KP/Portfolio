@@ -38,8 +38,8 @@ The development server starts with hot reloading enabled.
 If you’d like to reach out or learn more:
 
 * **GitHub:** [https://github.com/Abhinandan-KP](https://github.com/Abhinandan-KP)
-* **LinkedIn:** (www.linkedin.com/in/abhinandanx)
-* **Email:** (abhinandanx538@gmail.com)
+* **LinkedIn:** www.linkedin.com/in/abhinandanx
+* **Email:** abhinandanx538@gmail.com
 
 ---
 
