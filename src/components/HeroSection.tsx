@@ -19,7 +19,7 @@ const HeroSection = () => {
             <div className="flex-shrink-0 animate-fade-in-up">
               <div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-neon-cyan/30 shadow-[0_0_30px_rgba(0,242,255,0.3)] hover:shadow-[0_0_50px_rgba(0,242,255,0.5)] transition-shadow duration-300">
                 <img
-                  src="https://img.sanishtech.com/u/63214ab0803cbbb800c091d7cf4f50b7.jpg"
+                  src="/xmas.jpeg" 
                   alt="Abhinandan"
                   className="w-full h-full object-cover"
                 />
