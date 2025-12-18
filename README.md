@@ -1,80 +1,46 @@
-Personal Portfolio Project
-Project Overview
+# Abhinandan | Personal Portfolio
 
-This is a modern, responsive personal portfolio web application built to showcase projects, skills, and experience in a clean and professional way.
+Hi, I'm Abhinandan. This repository contains the source code for my personal portfolio website, where I showcase my projects, skills, and experience as a software developer.
 
-The project is designed for easy customization, fast performance, and smooth development workflow.
+The site is intentionally kept fast, minimal, and fully responsive. It acts as a central place for my work and an easy way for people to connect with me.
 
-Getting Started
+## Tech Stack
 
-You can edit and run this project locally using your preferred IDE.
+This project is built using a modern, developer-friendly stack:
 
-Prerequisites
+* **Framework:** React + Vite
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS
+* **UI Components:** shadcn/ui
 
-Make sure you have the following installed:
+## Running Locally
 
-Node.js
+To run the project on your machine:
 
-npm
-
-Recommended installation method:
-https://github.com/nvm-sh/nvm#installing-and-updating
-
-Running the Project Locally
-
-Follow these steps to set up the project on your machine:
-
-git clone <YOUR_GIT_URL>
-
-cd <YOUR_PROJECT_NAME>
-
+```bash
+git clone https://github.com/Abhinandan-KP/portfolio.git
+cd portfolio
 npm install
-
 npm run dev
+```
 
+The development server starts with hot reloading enabled.
 
-The app will start with hot-reloading enabled for faster development.
+## Project Structure
 
-Editing the Code
+* `src/` – Application source code
+* `components/` – Reusable UI components
+* `pages/` – Page-level components
+* `assets/` – Static assets
 
-You can modify the project using any of the following methods:
+## Connect
 
-1. Local Development (Recommended)
+If you’d like to reach out or learn more:
 
-Open the project in VS Code or any IDE
+* **GitHub:** [https://github.com/Abhinandan-KP](https://github.com/Abhinandan-KP)
+* **LinkedIn:** (add your LinkedIn URL)
+* **Email:** (add your email address)
 
-Edit components, styles, and content
+---
 
-Changes reflect instantly in the browser
-
-2. Edit Directly on GitHub
-
-Open the file you want to edit
-
-Click the Edit (✏️) icon
-
-Commit your changes
-
-3. GitHub Codespaces
-
-Go to the repository homepage
-
-Click Code → Codespaces → New codespace
-
-Edit and push changes directly from the browser
-
-Tech Stack
-
-This project is built using:
-
-Vite
-
-React
-
-TypeScript
-
-Tailwind CSS
-
-shadcn/ui
-
-The stack focuses on performance, scalability, and clean UI development.
+© 2025 Abhinandan. Built with React and TypeScript.
