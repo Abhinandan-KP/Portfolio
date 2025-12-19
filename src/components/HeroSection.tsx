@@ -46,15 +46,18 @@ const HeroSection = () => {
                   View My Work
                   <ArrowDown className="w-4 h-4" />
                 </a>
+                
+                {/* --- CHANGED SECTION START --- */}
                 <a
-                  href="https://online.flippingbook.com/view/230068274/#zoom=true"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/resume.pdf"
+                  download="Abhinandan_Resume.pdf"
                   className="btn-outline flex items-center gap-2"
                 >
                   <Download className="w-4 h-4" />
                   Download Resume
                 </a>
+                {/* --- CHANGED SECTION END --- */}
+
               </div>
             </div>
           </div>
